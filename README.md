@@ -1,2 +1,2 @@
-# hugging-faces-falcom100
+# hugging-faces-falcon100
 first hugging face falcon100
