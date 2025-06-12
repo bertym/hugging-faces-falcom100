@@ -4,10 +4,10 @@ emoji: 🌖
 colorFrom: purple
 colorTo: purple
 sdk: gradio
-sdk_version: 5.33.2
+sdk_version: 3.50.2
 app_file: app.py
 pinned: false
-license: cc
+license: mit
 ---
 
 # hugging-faces-falcon100
